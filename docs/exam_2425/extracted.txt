@@ -1,0 +1,163 @@
+--- Page 1 ---
+Giảng viên ra đề: Nguyễn Thị Xuân Anh Người phê duyệt: Trần Ngọc Diễm Ngày duyệt:
+............................................. ....................................... .../.../2025
+Kỳ/năm học 242 2024-2025
+Kiểm tra giữa kỳ
+Ngày thi 12/04/2025
+Trường Đại học Bách khoa-ĐHQG Môn học GIẢI TÍCH 2
+TPHCM Mã môn học MT1005
+Khoa Khoa học Ứng dụng Thời gian 50 phút Mã đề 2425
+Chú ý: - Sinh viên không được dùng tài liệu, nộp lại đề thi.
+- Đề thi gồm 16 câu trắc nghiệm.
+- Mỗi câu chọn đúng được 0.625 điểm, mỗi câu chọn sai bị trừ 0.125 điểm, câu không chọn không tính điểm.
+Cho hàm số f(x,y) = ln(x−2y −7). Hãy trả lời các câu hỏi từ Câu 1 đến Câu 2.
+Câu 1. (L.O.1) Mô tả nào đúng cho miền xác định của f trong mặt phẳng Oxy?
+A Toàn bộ phần mặt phẳng nằm phía dưới đường thẳng x−2y−7 = 0
+B Toàn bộ phần mặt phẳng nằm phía trên đường thẳng x−2y−7 = 0
+C Toàn bộ phần mặt phẳng nằm từ đường thẳng x−2y−7 = 0 trở lên phía trên
+D Các phương án khác sai
+E Toàn bộ phần mặt phẳng nằm từ đường thẳng x−2y−7 = 0 trở xuống phía dưới
+Câu 2. (L.O.1) Hệsốgóctiếptuyếncủagiaotuyếngiữamặtcongz = f(x,y)vàmặtphẳngx = 2tạiđiểm
+(2,−5,ln5) là
+A −2/5 B 2/5 C −2
+D 2 E Các phương án khác sai
+Câu 3. (L.O.2) Cho hàm số hai biến f có bản đồ đường mức như Hình 1. Biểu thức f(x,y) có thể là
+y
+k =−2
+3
+k =−4
+2
+k =−6
+1 k =6
+k =−8 k =4
+x
+-3 -2 -1 1 2 3
+-1 k =2
+-2 k =0
+Hình 1
+A 2(x+y)−2 B 2(x+y)−4 C x+y−6
+D x+y−2 E Các phương án khác sai
+MSSV: ............................ Họ và tên SV: ............................ Trang 1/4 — 2425
+
+--- Page 2 ---
+Câu 4. (L.O.1)Chọnphươngánđúngkhigọitênmặtbậchaicóphươngtrình2x−3y2+z2+4 = 0.
+A Paraboloid hyperbolic B Trụ parabolic C Hyperboloid 1 tầng
+D Các phương án khác sai E Hyperboloid 2 tầng
+Câu 5. (L.O.2) Quan sát nhiệt độ trong một nhà máy người ta ước lượng: tại điểm có tọa độ (x,y,z) nhiệt
+độ được cho bởi hàm số
+T(x,y,z) = 40+0.075x2−0.013y2+0.5z(◦C)
+Thiết bị cảm biến nhiệt đặt tại vị trí (−1,3,0.5) và đang di chuyển theo hướng u = ⟨1,−2,−1⟩. Phát biểu
+nào đúng khi ước tính tốc độ thay đổi nhiệt độ do cảm biến nhiệt ghi nhận (tại (−1,3,0.5) theo hướng
+u = ⟨1,−2,−1⟩) nếu đơn vị tính trên các trục là mét (m)?
+A Tăng khoảng 0.5283(◦C/m)
+B Giảm khoảng 0.8017(◦C/m)
+C Giảm khoảng 1.2117(◦C/m)
+D Giảm khoảng 0.2017(◦C/m)
+E Các phương án khác sai
+Câu 6. (L.O.1) Cho hàm ẩn z = z(x,y) xác định từ phương trình
+xz−33ez/y +x3+2y2 = 0.
+Biết z(1,4) = 0, chọn giá trị đúng cho z (1,4).
+x
+A −1/7 B 1/7 C Các phương án khác sai
+D 12/29 E −12/29
+Cho f(x,y) là hàm số khả vi tại mọi điểm và thỏa f(1,−2) = −4.32,f (1,−2) = 2.25,
+x
+f (1,−2) = −4.5. Hãy trả lời các câu hỏi từ Câu 7 đến Câu 8.
+y
+Câu 7. (L.O.1) Dùng xấp xỉ tuyến tính của f tại (1,−2) để tính gần đúng f(1.01,−2.19) ta được kết quả là
+A −3.4425 B 5.1975 C 0.8775
+D Các phương án khác sai E −5.1975
+x
+Câu 8. (L.O.1) Đặt g(x,y) = −xy2. Giá trị của g (1,−2) gần với số nào dưới đây nhất?
+y
+f(x,y)
+A 3.7589 B 4.0494 C Các phương án khác sai
+D 4.2411 E 2.9583
+Cho hàm số f(x,y) = −4x+y −2 và đường tròn C có phương trình x2 +y2 = 17. Hãy trả lời
+các Câu hỏi từ Câu 9 đến Câu 10.
+Câu 9. (L.O.1)KhidùngnhântửLagrangeđểtìmgiátrịlớnnhấtvàgiátrịnhỏnhấtcủaf trênC,tấtcảcác
+điểm nghi ngờ tìm được là
+A (−4,1),(4,−1) B (−4,−1),(4,1) C (−4,−1)
+D (4,−1) E Các phương án khác sai
+MSSV: ............................ Họ và tên SV: ............................ Trang 2/4 — 2425
+
+--- Page 3 ---
+Câu 10. (L.O.2) Giá trị lớn nhất và giá trị nhỏ nhất đề cập trong Câu 9 lần lượt là
+A Các phương án khác sai B 17,−19 C 15,−17
+D 17,−17 E 15,−19
+x2
+Cho miền phẳng D giới hạn bởi các đường cong y = 2−x2,y = − . Đường cong y = x2 tách
+2
+D thành các miền D và D như Hình 2. Hãy trả lời các câu hỏi từ Câu 11 đến Câu 13.
+1 2
+y
+y = x2
+D
+2
+D D x
+1 1
+x2
+y = −
+2 y = 2−x2
+Hình 2
+(cid:90)(cid:90)
+Câu 11. (L.O.1) Giá trị của I = −1x2dxdy là
+D
+−32 −1
+A B C Các phương án khác sai
+15 15
+−64
+D E 0
+15
+Câu 12. (L.O.2) Chọn phương án đúng khi mô tả D .
+1
+−x2 −x2
+A Các phương án khác sai B y ≥ ,y ≤ 2−x2,y ≥ x2 C y ≥ ,y ≥ 2−x2,y ≤ x2
+2 2
+−x2 −x2
+D y ≥ ,y ≤ 2−x2,y ≤ x2 E y ≤ ,y ≤ 2−x2,y ≤ x2
+2 2
+Câu 13. (L.O.1)MộttấmkimloạimỏngcódạngnhưmiềnD vàcómậtđộkhốilượngkhôngđổilàρ = 0.39
+1
+(gam/inch2). Biết rằng đơn vị trên các trục tính theo inch, chọn giá trị gần đúng nhất cho khối lượng (tính
+bằng gam) của tấm kim loại.
+A 4.68 B Các phương án khác sai C 1.56
+D 2.08 E 1.04
+Câu 14. (L.O.1) Trong hệ tọa độ cực (r,φ) (với x = rcosφ,y = rsinφ), chọn mô tả đúng cho phần cung
+tròn tô đậm trong Hình 3.
+π π π
+A r = 4cosφ,0 ≤ φ ≤ B r = 4sinφ,0 ≤ φ ≤ C r = 4cosφ,0 ≤ φ ≤
+4 4 2
+π
+D r = 4,0 ≤ φ ≤ E Các phương án khác sai
+2
+Câu 15. (L.O.1) Trong mặt phẳng Oxy cho miền D thỏa điều kiện 16 ≤ x2 +y2 ≤ 36,x ≤ 0,y ≤ 0. Giá trị
+(cid:90)(cid:90)
+của 12xdxdy là
+D
+A Các phương án khác sai B −1824 C −608
+D 608 E 1824
+MSSV: ............................ Họ và tên SV: ............................ Trang 3/4 — 2425
+
+--- Page 4 ---
+y
+2
+1
+x
+1 2 3 4
+-1
+-2
+Hình 3
+√
+Câu 16. (L.O.1) Cho hàm số f(x,y) = y x−ay2 −x+7y−3. Chọn phương án đúng về giá trị của tham
+số a để f đạt cực tiểu tại (1,2).
+A −1.5 B Các phương án khác sai C 1.5
+D 2 E Không tồn tại
+HẾT
+MSSV: ............................ Họ và tên SV: ............................ Trang 4/4 — 2425
+
+--- Page 5 ---
+ĐÁP ÁN PHẦN TRẮC NGHIỆM 2425
+1 - A 2 - A 3 - A 4 - A 5 - D 6 - D 7 - A 8 - D 9 - A 10 - E
+11 - D 12 - D 13 - E 14 - A 15 - C 16 - E
+Câuhỏivàlờigiảichitiết Trang1/2 —2425
